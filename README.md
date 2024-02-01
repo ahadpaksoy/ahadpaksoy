@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **neural networks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahadpaksoy](https://github.com/ahadpaksoy)
+- 👨‍💻 All of my projects are available at [https://github.com/ahadpaksoy](github.com/ahadpaksoy)
 
 - 💬 Ask me about **whatever you want**
 
